@@ -1,0 +1,191 @@
+[
+ {
+    "shelter_name" : "Dogs Trust Shoreham",
+    "address" : "Brighton Road, Shoreham by Sea, West Sussex",
+    "pcode" : "BN43 5LT",
+    "latitude" : 50.830329127668,
+    "longitude" : -0.28723656896098,
+    "phone" : "01273 452576",
+    "url" : "https://www.dogstrust.org.uk/our-centres/shoreham/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Newbury",
+    "address" : "Plumb’s Farm, Hamstead Marshall, Newbury, Berks",
+    "pcode" : "RG20 0HR",
+    "latitude" : 51.386964946287,
+    "longitude" : -1.4069876362777,
+    "phone" : "01488 658391",
+    "url" : "https://www.dogstrust.org.uk/our-centres/newbury/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Kenilworth",
+    "address" : "Honiley, Kenilworth, Warks.",
+    "pcode" : "CV8 1NP",
+    "latitude" : 52.353122321931,
+    "longitude" : -1.6510692048833,
+    "phone" : "01926 484 398",
+    "url" : "https://www.dogstrust.org.uk/our-centres/kenilworth/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Loughborough",
+    "address" : "Hill Farm, Wide Lane, Leicestershire",
+    "pcode" : "LE12 6SE",
+    "latitude" : 52.802102,
+    "longitude" : -1.061336,
+    "phone" : "01509 880 070",
+    "url" : "https://www.dogstrust.org.uk/our-centres/loughborough/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Evesham",
+    "address" : "89 Pitcher’s Hill, Wickhamford, Evesham, Worcs",
+    "pcode" : "WR11 7RT",
+    "latitude" : 52.068276582215,
+    "longitude" : -1.9000828633672,
+    "phone" : "01386 830 613",
+    "url" : "https://www.dogstrust.org.uk/our-centres/evesham/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Ilfracombe",
+    "address" : "Hazeldene, West Down, Ilfracombe, North Devon",
+    "pcode" : "EX34 8NU",
+    "latitude" : 51.152879085337,
+    "longitude" : -4.1393223744462,
+    "phone" : "01271 812 709",
+    "url" : "https://www.dogstrust.org.uk/our-centres/ilfracombe/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Snetterton",
+    "address" : "North End Road, Snetterton, Norfolk",
+    "pcode" : "NR16 2LD",
+    "latitude" : 52.490360171896,
+    "longitude" : 0.94365071820309,
+    "phone" : "01953 498377",
+    "url" : "https://www.dogstrust.org.uk/our-centres/snetterton/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Darlington",
+    "address" : "Hill House Farm, Sadberge, Co Durham",
+    "pcode" : "DL2 1SL",
+    "latitude" : 54.553839006326,
+    "longitude" : -1.4727865670065,
+    "phone" : "01325 333 114",
+    "url" : "https://www.dogstrust.org.uk/our-centres/darlington/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Bridgend",
+    "address" : "Court Colman, Pen-Y-Fai, Bridgend, Mid Glamorgan",
+    "pcode" : "CF31 4NG",
+    "latitude" : 51.525405619593,
+    "longitude" : -3.6095003753085,
+    "phone" : "01656 725219",
+    "url" : "https://www.dogstrust.org.uk/our-centres/bridgend/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Basildon",
+    "address" : "Nevendon Road, Wickford",
+    "pcode" : "SS12 0FH",
+    "latitude" : 51.593726713617,
+    "longitude" : 0.49805169831183,
+    "phone" : "01268 535 050",
+    "url" : "https://www.dogstrust.org.uk/our-centres/essex/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Ballymena",
+    "address" : "Fairview, 60 Teeshan Road, Ballymena, Co Antrim",
+    "pcode" : "BT43 5PN",
+    "latitude" : 54.88889954415,
+    "longitude" : -6.3241891678528,
+    "phone" : "028 2565 2977",
+    "url" : "https://www.dogstrust.org.uk/our-centres/ballymena/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Canterbury",
+    "address" : "Radfall Road, Chestfield, Near Whitstable, Kent",
+    "pcode" : "CT5 3ER",
+    "latitude" : 51.331393036029,
+    "longitude" : 1.0675885366262,
+    "phone" : "01227 792 505",
+    "url" : "https://www.dogstrust.org.uk/our-centres/canterbury/"
+  },
+ {
+    "shelter_name" : "Co-op West Bridgeford",
+    "address" : "315 Hamilton Road, Uddingston, Glasgow",
+    "pcode" : "G71 7SL",
+    "latitude" : 52.933524,
+    "longitude" : -1.128594,
+    "phone" : "0141 773 5130",
+    "url" : "https://www.dogstrust.org.uk/our-centres/glasgow/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Glasgow",
+    "address" : "315 Hamilton Road, Uddingston, Glasgow",
+    "pcode" : "G71 7SL",
+    "latitude" : 55.840529580189,
+    "longitude" : -4.1243921928694,
+    "phone" : "0141 773 5130",
+    "url" : "https://www.dogstrust.org.uk/our-centres/glasgow/"
+  },
+ {
+    "shelter_name" : "Dogs Trust West Londom",
+    "address" : "Highway Farm, Harvil Road, Uxbridge",
+    "pcode" : "UB9 6JW",
+    "latitude" : 51.580216,
+    "longitude" : -0.470738,
+    "phone" : "01895 453930",
+    "url" : "https://www.dogstrust.org.uk/our-centres/harefield/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Leeds",
+    "address" : "Woodlands Farm, York Road, Leeds",
+    "pcode" : "LS15 4NL",
+    "latitude" : 53.852003350745,
+    "longitude" : -1.3779826945411,
+    "phone" : "0113 281 4920",
+    "url" : "https://www.dogstrust.org.uk/our-centres/leeds/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Manchester",
+    "address" : "Parkway, Denton, Manchester",
+    "pcode" : "M34 3SG",
+    "latitude" : 53.452686241768,
+    "longitude" : -2.1330924327036,
+    "phone" : "0161 337 3600",
+    "url" : "https://www.dogstrust.org.uk/our-centres/manchester/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Merseyside",
+    "address" : "Whiston Lane, Huyton, Liverpool",
+    "pcode" : "L36 6HP",
+    "latitude" : 53.415046792297,
+    "longitude" : -2.8167656413002,
+    "phone" : "0151 480 0660",
+    "url" : "https://www.dogstrust.org.uk/our-centres/merseyside/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Salisbury",
+    "address" : "45 Amesbury Road, Newton Tony, Wiltshire",
+    "pcode" : "SP4 0HW",
+    "latitude" : 51.168171631597,
+    "longitude" : -1.7050029429733,
+    "phone" : "01980 629634",
+    "url" : "https://www.dogstrust.org.uk/our-centres/salisbury/"
+  },
+ {
+    "shelter_name" : "Dogs Trust Shrewsbury",
+    "address" : "Roden Lane Farm, Telford, Shropshire",
+    "pcode" : "TF6 6BP",
+    "latitude" : 52.743848725972,
+    "longitude" : -2.6435213759414,
+    "phone" : "01952 770225",
+    "url" : "https://www.dogstrust.org.uk/our-centres/shrewsbury/"
+  },
+ {
+    "shelter_name" : "Dogs Trust West Calder",
+    "address" : "Bentyhead, West Calder, West Lothian",
+    "pcode" : "EH55 8LE",
+    "latitude" : 55.834168769401,
+    "longitude" : -3.5666584665479,
+    "phone" : "01506 873459",
+    "url" : "https://www.dogstrust.org.uk/our-centres/west-calder/"
+  }
+]

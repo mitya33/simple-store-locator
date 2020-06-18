@@ -1,0 +1,33 @@
+<!doctype html>
+<head>
+	<link href='simple-store-locator.css' rel='stylesheet' type='text/css' />
+	<script src='//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js'></script>
+	<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyBSJesk3QLe7Ix7Nikt2ZwcM0PwFw7dwSc&libraries=places'></script>
+	<script src='simple-store-locator.js'></script>
+	<style>
+	body { padding: 2em; background: #f2f2f2; }
+	* { color: #666; font-family: 'Trebuchet MS'; }
+	h1 { margin-top: 0; text-align: center; }
+	h1 + p { text-align: center; margin-bottom: 2em; }
+	</style>
+</head>
+<body>
+	<h1>Store locator demo</h1>
+	<p>When inputting a postcode, use <strong>NG1 2BB</strong> for this demo to ensure results.</p>
+	<div id='store_locator'></div>
+	<script>
+	foo = new Simple_store_locator({
+		cntr: '#store_locator',
+		data_file: 'test_data.txt',
+		tooltip_field: 'shelter_name',
+		place_template: '<p>{shelter_name} ({distance})</p><p>{address}</p><p>{pcode}</p><p>Tel: {phone}</p><p>{show_on_map}</p><p>{show_dirs}</p><p><a href="{url}">Visit website</a></p>',
+		noun: 'shelters',
+		default_radius: 10,
+		show_user_location: 1,
+		crow_modifier: 25,
+		directions_times: 1,
+		country: 'uk',
+		unit: 'miles'
+	});
+	</script>
+</body>
