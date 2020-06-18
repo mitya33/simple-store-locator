@@ -1,2 +1,5 @@
-# simple-store-locator
-Simple Store Locator is a simple and highly customisable UI to highlight store locations. It is based on the Google Maps API.
+# Simple Store Locator
+
+Simple Store Locator is a fully contained, Google Maps-based interface for showing locations (e.g. branches of a business) on a map. It  supports geo-position detection, directions (walking, driving etc) and more features.
+
+For all usage and examples see https://mitya.uk/projects/simple-store-locator
